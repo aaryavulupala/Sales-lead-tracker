@@ -1,19 +1,45 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# LeadVault — Sales Lead Tracking Web App
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+LeadVault is a **cloud-based sales lead management tool** designed to help salespeople capture, organize, and track leads efficiently. The application evolved from a Chrome extension into a full web app, enabling persistent, real-time access to lead data across sessions.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+---
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🚀 Live Demo
+👉 **Deployed on Netlify:** <ADD_LIVE_LINK_HERE>
 
-Happy Coding!
+---
+
+## 📌 Features
+- Save and manage sales leads in a centralized interface
+- Capture lead URLs directly from the browser (Chrome extension workflow)
+- Real-time data persistence and synchronization
+- Responsive, lightweight UI optimized for daily sales workflows
+- Cross-session access to leads from any device
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** JavaScript, HTML, CSS
+- **Backend / Database:** Google Firebase (real-time database)
+- **Browser APIs:** Chrome Tabs API
+- **Deployment:** Netlify
+- **Version Control:** Git & GitHub
+
+---
+
+## 🧠 How It Works
+1. Users capture leads manually or directly from the active browser tab
+2. Lead data is stored and synchronized in real time using Firebase
+3. The UI dynamically updates using DOM manipulation
+4. Leads persist across sessions and devices
+5. The application is deployed publicly with automated builds via Netlify
+
+---
+
+## 📁 Project Structure
+```txt
+.
+├── index.html        # App layout
+├── index.css         # Styling
+├── index.js          # Core logic & Firebase integration
+└── README.md
