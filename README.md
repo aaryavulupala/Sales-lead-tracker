@@ -1,11 +1,11 @@
-# LeadVault — Sales Lead Tracking Web App
+# Sales Lead Tracking Web App
 
-LeadVault is a **cloud-based sales lead management tool** designed to help salespeople capture, organize, and track leads efficiently. The application evolved from a Chrome extension into a full web app, enabling persistent, real-time access to lead data across sessions.
+A **cloud-based sales lead management tool** designed to help salespeople capture, organize, and track leads efficiently. The application evolved from a Chrome extension into a full web app, enabling persistent, real-time access to lead data across sessions.
 
 ---
 
 ## 🚀 Live Demo
-👉 **Deployed on Netlify:** <ADD_LIVE_LINK_HERE>
+👉 **Deployed on Netlify:** [<link>](https://leads-tracker-app-aarya.netlify.app/)
 
 ---
 
