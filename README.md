@@ -5,7 +5,7 @@ A **cloud-based sales lead management tool** designed to help salespeople captur
 ---
 
 ## 🚀 Live Demo
-👉 **Deployed on Netlify:** [<link>](https://leads-tracker-app-aarya.netlify.app/)
+👉 **Deployed on Netlify:** https://leads-tracker-app-aarya.netlify.app/
 
 ---
 
